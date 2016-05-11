@@ -14,7 +14,7 @@
 * Directed Apple to provide “reasonable technical assistance to assist law enforcement agents in obtaining access to the data” on the device.
 * Defined this assistance to include creating custom software
 
-#Apple's Argument
+##Apple's Argument
 * Apple characterized the order as requiring it to create a back door to defeat the encryption on the iPhone, leaving users' data vulnerable to thieves, hackers, etc.
 * Emphasized lack of explicit statutory authority and burden of the court's order
 * Apple argued that compelling it to develop software amounted to compelled speech in violation of the First Amendment
